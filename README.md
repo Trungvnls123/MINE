@@ -1,1 +1,1 @@
-# MINE
+# Mutual Information Neural Estimation
